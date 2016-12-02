@@ -1,0 +1,33 @@
+body,ul,ol,dl,h1,h2,h3,h4,h5,h6,p,input,button,textarea,div{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+a{
+	text-decoration:none;
+	color:#888;
+	
+}
+a:hover{
+	color: #c00;
+}
+
+
+body{
+	font-family:"微软雅黑","黑体";
+	font-size:12px;
+	background-color:#fff;
+	overflow: scroll;
+	overflow-x:hidden;
+	
+	color:#888;
+}
+
+img{
+	border:0;
+	
+}
+
+i{
+	font-style: normal;
+}
